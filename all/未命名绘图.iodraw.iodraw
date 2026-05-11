@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="v3pWft3GAgvBWOws4oeZ-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v3pWft3GAgvBWOws4oeZ-1" target="v3pWft3GAgvBWOws4oeZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-1" value="车主用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="190" width="30" height="60" as="geometry" />
         </mxCell>
@@ -27,6 +30,18 @@
         </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-10" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="280" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v3pWft3GAgvBWOws4oeZ-11" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v3pWft3GAgvBWOws4oeZ-12" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v3pWft3GAgvBWOws4oeZ-13" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v3pWft3GAgvBWOws4oeZ-14" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="440" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
