@@ -144,6 +144,9 @@
         <mxCell id="v3pWft3GAgvBWOws4oeZ-83" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="v3pWft3GAgvBWOws4oeZ-65" target="v3pWft3GAgvBWOws4oeZ-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="v3pWft3GAgvBWOws4oeZ-84" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="v3pWft3GAgvBWOws4oeZ-65" target="v3pWft3GAgvBWOws4oeZ-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-65" value="数据分析" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="910" width="140" height="40" as="geometry" />
         </mxCell>
@@ -172,7 +175,7 @@
         <mxCell id="v3pWft3GAgvBWOws4oeZ-78" value="发布公告" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="850" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v3pWft3GAgvBWOws4oeZ-79" value="公告列表" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v3pWft3GAgvBWOws4oeZ-79" value="营收报表" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="900" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-80" value="发布公告" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
