@@ -144,7 +144,7 @@
         <mxCell id="v3pWft3GAgvBWOws4oeZ-66" value="公告通知" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="950" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v3pWft3GAgvBWOws4oeZ-69" value="个人中心" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v3pWft3GAgvBWOws4oeZ-69" value="账号设置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="990" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-70" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.052;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="v3pWft3GAgvBWOws4oeZ-53" target="v3pWft3GAgvBWOws4oeZ-58">
