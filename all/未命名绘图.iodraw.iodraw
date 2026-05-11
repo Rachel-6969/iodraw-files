@@ -141,7 +141,7 @@
         <mxCell id="v3pWft3GAgvBWOws4oeZ-65" value="数据分析" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="910" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v3pWft3GAgvBWOws4oeZ-66" value="公告通知" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v3pWft3GAgvBWOws4oeZ-66" value="系统配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="950" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-69" value="账号设置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -161,10 +161,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-77" value="公告列表" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="850" width="140" height="40" as="geometry" />
+          <mxGeometry x="520" y="810" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-78" value="发布公告" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="890" width="140" height="40" as="geometry" />
+          <mxGeometry x="520" y="850" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v3pWft3GAgvBWOws4oeZ-79" value="公告列表" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="820" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v3pWft3GAgvBWOws4oeZ-80" value="发布公告" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="860" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
