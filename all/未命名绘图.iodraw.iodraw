@@ -99,14 +99,6 @@
         <mxCell id="v3pWft3GAgvBWOws4oeZ-37" value="统计停车记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="420" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v3pWft3GAgvBWOws4oeZ-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v3pWft3GAgvBWOws4oeZ-53" target="v3pWft3GAgvBWOws4oeZ-54">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="v3pWft3GAgvBWOws4oeZ-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v3pWft3GAgvBWOws4oeZ-53">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="730" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-46" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="v3pWft3GAgvBWOws4oeZ-53" target="v3pWft3GAgvBWOws4oeZ-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -131,9 +123,6 @@
         <mxCell id="v3pWft3GAgvBWOws4oeZ-53" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="850" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v3pWft3GAgvBWOws4oeZ-54" value="首页" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="670" width="140" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-56" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="v3pWft3GAgvBWOws4oeZ-58" target="v3pWft3GAgvBWOws4oeZ-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -141,33 +130,33 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-58" value="数据看板" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="750" width="140" height="40" as="geometry" />
+          <mxGeometry x="310" y="710" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-59" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="v3pWft3GAgvBWOws4oeZ-61" target="v3pWft3GAgvBWOws4oeZ-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-60" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="v3pWft3GAgvBWOws4oeZ-61">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="810" as="targetPoint" />
+            <mxPoint x="550" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-61" value="模拟离场" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="790" width="140" height="40" as="geometry" />
+          <mxGeometry x="310" y="750" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-62" value="导航路线" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="830" width="140" height="40" as="geometry" />
+          <mxGeometry x="310" y="790" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-63" value="当前状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="870" width="140" height="40" as="geometry" />
+          <mxGeometry x="310" y="830" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-64" value="停车记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="910" width="140" height="40" as="geometry" />
+          <mxGeometry x="310" y="870" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-65" value="我的车辆" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="950" width="140" height="40" as="geometry" />
+          <mxGeometry x="310" y="910" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-66" value="公告通知" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="990" width="140" height="40" as="geometry" />
+          <mxGeometry x="310" y="950" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-67" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="v3pWft3GAgvBWOws4oeZ-69" target="v3pWft3GAgvBWOws4oeZ-73">
           <mxGeometry relative="1" as="geometry" />
@@ -176,22 +165,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-69" value="个人中心" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1030" width="140" height="40" as="geometry" />
+          <mxGeometry x="310" y="990" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-70" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.052;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="v3pWft3GAgvBWOws4oeZ-53" target="v3pWft3GAgvBWOws4oeZ-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-71" value="图片识别车牌" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="750" width="140" height="40" as="geometry" />
+          <mxGeometry x="550" y="710" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-72" value="手动输入车牌" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="790" width="140" height="40" as="geometry" />
+          <mxGeometry x="550" y="750" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-73" value="维护个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1010" width="140" height="40" as="geometry" />
+          <mxGeometry x="550" y="970" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v3pWft3GAgvBWOws4oeZ-74" value="统计停车记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1050" width="140" height="40" as="geometry" />
+          <mxGeometry x="550" y="1010" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
